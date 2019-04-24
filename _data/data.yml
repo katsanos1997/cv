@@ -126,7 +126,7 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Unity3D
+      - title: WordPress
         link: "#"
         tagline: "Manage, maintain and design the csforum.cs.uoi.gr website."
     
@@ -134,7 +134,7 @@ projects:
         link: "#"
         tagline: "Developing a Robot Operating System (ROS) code with the falcon robotic mechanism for powering the arm's arm."
         
-      - title: WordPress
+      - title: Unity3D
         link: "#"
         tagline: "Designing a similar game with Minecraft on the Unity3D platform."
         
