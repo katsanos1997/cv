@@ -90,7 +90,16 @@ experiences:
 
           - Bullet point
           - Bullet point
-   
+         
+    - role: Laboratory Assistant
+     time: Winter Semester 2017
+     company: CSE UOI, Ioannina Greece
+     details: |
+        Laboratory Assistant in MYY105 Course Introduction to CSE UOI Programming (Python).
+
+         - Bullet point
+         - Bullet point
+             
 projects:
     title: Projects
     intro: >
