@@ -66,6 +66,12 @@
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.fb %}
+    <li class="fb"><i class="fab fa-fb"></i>
+      <a href="http://facebook.com/{{ sidebar.fb }}" target="_blank">{{ sidebar.fb }}</a>
+    </li>
+    {% endif %}
 
   </ul>
 </div><!--//contact-container-->
