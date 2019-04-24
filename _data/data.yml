@@ -40,17 +40,18 @@ sidebar:
 
       - item: Cooking
         link:
+        
+      - item: Τheater
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      As a student I did not stop experimenting, from the early years I 
+      participated in various groups. Some of these are the technical 
+      support team of my department. Also I worked voluntarily as a lab assistant
+      in my department. Still I was involved with a theater group and a football team.
+      Μy goal is to gain as much knowledge as I can.
 
 education:
     - degree: MSc in Computer Science & Engineering
