@@ -184,10 +184,13 @@ skills:
         level: 96%
         
       - name: Unity
-        level: 90%
+        level: 92%
 
       - name: Ruby on Rails
-        level: 85%
+        level: 80%
+       
+      - name: Advertising & Management
+        level: 70%
 
       - name: ROS(Robot Operating System)     
         level: 65%
