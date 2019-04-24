@@ -19,11 +19,12 @@ sidebar:
     github: katsanos1997
     gitlab: 
     bitbucket:
+    fb: dimitriskatsanosgr
     twitter: '@katsanos1997'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    fb: dimitriskatsanosgr
+    
 
     languages:
       - idiom: Greek
@@ -70,48 +71,53 @@ education:
 
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Laboratory Assistant
+      time: Spring Semester 2018
+      company: CSE UOI, Ioannina Greece
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Laboratory Assistant in MYY205 Course CSE UOI Object Oriented Programming
+        Techniques.
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Laboratory Assistant
+      time: Spring semester 2018
+      company: CSE UOI, Ioannina Greece
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+         Laboratory Assistant in the MYY401 Course Course Programming Principles
+         (Haskell and Prolog) of the CSE UOI.
 
           - Bullet point
           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Laboratory Assistant
+      time: Winter Semester 2017
+      company: CSE UOI, Ioannina Greece
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+         Laboratory Assistant in MYY105 Course Introduction to CSE UOI Programming (Python).
 
           - Bullet point
           - Bullet point
+          
+    - role: Ιnsurer
+     time: 2016-2018
+     company: HG BROKERS S.A, Ioannina Greece
+     details: |
+         Promotion of insurance products to the insurance company HG BROKERS S.A. 
+         Client computerization and customer data verification at HG BROKERS S.A.
+
+         - Bullet point
+         - Bullet point
+         
+    - role: System maintenance and technical support
+     time: Winter Semester 2016
+     company: CSE UOI, Ioannina Greece
+     details: |
+          Participation in the CSE UOI Support Team.
+
+         - Bullet point
+         - Bullet point
 
 projects:
     title: Projects
