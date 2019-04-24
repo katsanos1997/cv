@@ -42,6 +42,12 @@
       <a href="http://bitbucket.com/{{ sidebar.bitbucket }}" target="_blank">{{ sidebar.bitbucket }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.fb %}
+    <li class="fb"><i class="fab fa-facebook-f"></i>
+      <a href="http://facebook.com/{{ sidebar.fb }}" target="_blank">{{ sidebar.fb }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.twitter %}
     <li class="twitter"><i class="fab fa-twitter"></i>
@@ -64,12 +70,6 @@
     {% if sidebar.goodreads %}
     <li class="goodreads-g"><i class="fab fa-goodreads-g"></i>
       <a href="https://www.goodreads.com/user/show/{{ sidebar.goodreads }}" target="_blank">{{ sidebar.goodreads }}</a>
-    </li>
-    {% endif %}
-    
-    {% if sidebar.fb %}
-    <li class="fb"><i class="fab fa-facebook-f"></i>
-      <a href="http://facebook.com/{{ sidebar.fb }}" target="_blank">{{ sidebar.fb }}</a>
     </li>
     {% endif %}
 
