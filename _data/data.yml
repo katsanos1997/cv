@@ -66,8 +66,8 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - Αnswering student queries
+          - Student control
 
 
 experiences:
@@ -78,8 +78,8 @@ experiences:
         Laboratory Assistant in MYY205 Course CSE UOI Object Oriented Programming
         Techniques.
 
-          - Bullet point
-          - Bullet point
+          - Αnswering student queries
+          - Student control
     
     - role: Laboratory Assistant
       time: Spring semester 2018
@@ -88,8 +88,7 @@ experiences:
          Laboratory Assistant in the MYY401 Course Course Programming Principles
          (Haskell and Prolog) of the CSE UOI.
 
-          - Bullet point
-          - Bullet point
+          - Αnswering student queries
          
     - role: Laboratory Assistant
       time: Winter Semester 2017
@@ -97,8 +96,8 @@ experiences:
       details: |
          Laboratory Assistant in MYY105 Course Introduction to CSE UOI Programming (Python).
 
-          - Bullet point
-          - Bullet point
+          - Αnswering student queries
+          - Student control
           
     - role: Ιnsurer
       time: 2016-2018
