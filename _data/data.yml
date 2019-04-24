@@ -126,25 +126,21 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: ROS
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
+        tagline: "Developing a Robot Operating System (ROS) code with the falcon robotic mechanism for powering the arm's arm."
+        
+      - title: Mindspace competition
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Survey on sensors and creation of Business plan in the framework of the Mindspace contest (Smart Clothes)."
 
-      - title: Atom
+      - title: Business Plan
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Research and development of a business plan for honey and its derivatives under the entrepreneurship course."
 
-      - title: Delta
+      - title: Business Plan
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Survey on sensors, creation of business plan within the course of special subjects of entrepreneurship and design of smart coating."
 
 publications:
     title: Publications
