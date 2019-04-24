@@ -128,7 +128,7 @@ projects:
 
     assignments:
       - title: WordPress
-        link: "#"
+        link: "https://csforum.cs.uoi.gr/"
         tagline: "Manage, maintain and design the csforum.cs.uoi.gr website."
     
       - title: ROS
