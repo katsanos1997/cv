@@ -142,6 +142,10 @@ projects:
         link: "#"
         tagline: "Survey on sensors, creation of business plan within the course of special subjects of entrepreneurship and design of smart coating."
 
+      - title: Unity3D
+        link: "#"
+        tagline: "Designing a similar game with Minecraft on the Unity3D platform."
+        
 skills:
     title: Skills &amp; Proficiency
 
