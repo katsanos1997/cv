@@ -181,7 +181,7 @@ skills:
       - name: Ruby on Rails
         level: 85%
 
-      -name: ROS(Robot Operating System)     
+      - name: ROS(Robot Operating System)     
         level: 65%
         
 footer: >
