@@ -135,7 +135,7 @@ projects:
         
       - title: Unity3D
         link: "#"
-        tagline: "Designing a similar game with Minecraft on the Unity3D platform."
+        tagline: "Designing a game similar to Minecraft. "
 
       - title: OpenGL
         link: "#" 
