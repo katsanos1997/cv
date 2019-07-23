@@ -49,11 +49,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      As a student I did not stop experimenting, from the early years I 
-      participated in various groups. Some of these are the technical 
-      support team of my department. Also I worked voluntarily as a lab assistant
-      in my department. Still I was involved with a theater group and a football team.
-      Μy goal is to gain as much knowledge as I can.
+      As a student, already by my first year I got active. I was a member of 
+      the technical support group. I have also worked voluntarily as a lab assistant
+      at my department. Moreover, I have been involved in a theatrical and a football
+      team. My goal is to gain as much knowledge as I can.
 
 education:
     - degree: Diploma in Computer Science & Engineering
@@ -171,7 +170,7 @@ skills:
         level: 92%
 
       - name: Ruby on Rails
-        level: 80%
+        level: 70%
        
       - name: Advertising & Management
         level: 70%
