@@ -84,7 +84,7 @@ experiences:
       time: Spring semester 2018
       company: CSE UOI, Ioannina Greece
       details: |
-         Laboratory Assistant in the MYY401 Course Course Programming Principles
+         Laboratory Assistant in MYY401 Course Programming Principles
          (Haskell and Prolog) of the CSE UOI.
 
           - Αnswering student queries
@@ -167,7 +167,7 @@ skills:
         level: 96%
         
       - name: Unity
-        level: 92%
+        level: 85%
 
       - name: Ruby on Rails
         level: 70%
@@ -179,4 +179,4 @@ skills:
         level: 65%
         
 footer: >
-    Last Update: 25/04/2019
+    Last Update: 23/07/2019
