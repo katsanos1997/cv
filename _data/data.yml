@@ -141,6 +141,10 @@ projects:
         link: "#" 
         tagline: "" 
         
+      - title: Compiler
+        link: "#" 
+        tagline: ""
+        
       - title: Mindspace competition
         link: "#"
         tagline: "Survey on sensors and creation of Business plan in the framework of the Mindspace contest (Smart Clothes)."
