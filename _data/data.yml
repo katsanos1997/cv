@@ -183,6 +183,15 @@ skills:
       - name: Design Patterns
         level: 59%
        
+      - name: Haskell
+        level: 80%
+
+      - name: Prolog 
+        level: 75%
+
+      - name: SQL
+        level: 60%
+
       - name: Advertising & Management
         level: 70%
 
