@@ -136,6 +136,10 @@ projects:
       - title: Unity3D
         link: "#"
         tagline: "Designing a similar game with Minecraft on the Unity3D platform."
+
+      - title: OpenGL
+        link: "#" 
+        tagline: "" 
         
       - title: Mindspace competition
         link: "#"
