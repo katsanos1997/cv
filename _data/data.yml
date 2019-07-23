@@ -69,12 +69,12 @@ education:
           - Student control
 
 
-experiences:
+experience:
     - role: Laboratory Assistant
       time: Spring Semester 2018
       company: CSE UOI, Ioannina Greece
       details: |
-        Laboratory Assistant in MYY205 Course CSE UOI Object Oriented Programming
+        Laboratory Assistant at MYY205 Course CSE UOI Object Oriented Programming
         Techniques.
 
           - Αnswering student queries
@@ -84,7 +84,7 @@ experiences:
       time: Spring semester 2018
       company: CSE UOI, Ioannina Greece
       details: |
-         Laboratory Assistant in MYY401 Course Programming Principles
+         Laboratory Assistant at MYY401 Course Programming Principles
          (Haskell and Prolog) of the CSE UOI.
 
           - Αnswering student queries
@@ -93,7 +93,7 @@ experiences:
       time: Winter Semester 2017
       company: CSE UOI, Ioannina Greece
       details: |
-         Laboratory Assistant in MYY105 Course Introduction to CSE UOI Programming (Python).
+         Laboratory Assistant at MYY105 Course Introduction to CSE UOI Programming (Python).
 
           - Αnswering student queries
           - Student control
@@ -158,10 +158,10 @@ skills:
         level: 98%
 
       - name: Java
-        level: 98%
+        level: 97%
 
       - name: WordPress
-        level: 98%
+        level: 99%
 
       - name: Programming Languages
         level: 96%
