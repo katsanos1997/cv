@@ -135,15 +135,15 @@ projects:
         
       - title: Unity3D
         link: "#"
-        tagline: "Designing a game similar to Minecraft. "
+        tagline: "Creating a game similar to Minecraft. "
 
       - title: OpenGL
         link: "#" 
-        tagline: "" 
+        tagline: "Designing a program that creates 2D and 3D objects." 
         
       - title: Compiler
         link: "#" 
-        tagline: ""
+        tagline: "Creating a full functional compiler for a programming language."
         
       - title: Mindspace competition
         link: "#"
